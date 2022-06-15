@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PORTFOLIO/static/css/main.193c165d.chunk.css",
-    "main.js": "/PORTFOLIO/static/js/main.e51cf7d6.chunk.js",
-    "main.js.map": "/PORTFOLIO/static/js/main.e51cf7d6.chunk.js.map",
+    "main.js": "/PORTFOLIO/static/js/main.f4b6bc22.chunk.js",
+    "main.js.map": "/PORTFOLIO/static/js/main.f4b6bc22.chunk.js.map",
     "runtime-main.js": "/PORTFOLIO/static/js/runtime-main.4abe8ae6.js",
     "runtime-main.js.map": "/PORTFOLIO/static/js/runtime-main.4abe8ae6.js.map",
     "static/css/2.24573990.chunk.css": "/PORTFOLIO/static/css/2.24573990.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.193c165d.chunk.css.map": "/PORTFOLIO/static/css/main.193c165d.chunk.css.map",
     "static/js/2.9156886c.chunk.js.LICENSE.txt": "/PORTFOLIO/static/js/2.9156886c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/PORTFOLIO/static/media/BestermindRegular.e58a1922.ttf",
-    "static/media/Neelaya_Nanda.c6034bc6.pdf": "/PORTFOLIO/static/media/Neelaya_Nanda.c6034bc6.pdf",
+    "static/media/Neelaya_Nanda.b6e4b930.docx": "/PORTFOLIO/static/media/Neelaya_Nanda.b6e4b930.docx",
     "static/media/adobe-xd.a6dca99d.svg": "/PORTFOLIO/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/PORTFOLIO/static/media/adobeaudition.afa937d5.svg",
     "static/media/after-effects.3c076652.svg": "/PORTFOLIO/static/media/after-effects.3c076652.svg",
@@ -156,6 +156,6 @@
     "static/css/2.24573990.chunk.css",
     "static/js/2.9156886c.chunk.js",
     "static/css/main.193c165d.chunk.css",
-    "static/js/main.e51cf7d6.chunk.js"
+    "static/js/main.f4b6bc22.chunk.js"
   ]
 }
