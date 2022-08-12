@@ -8,7 +8,7 @@
     'Node JS',
     'Photoshop',
     'Microsoft Office',
-    'Bootstrap','After Effects','Premiere Pro','Wordpress','Git','Blender'
+    'Bootstrap','After Effects','Premiere Pro','Wordpress','Git','Blender','Figma','MaterialUI'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
